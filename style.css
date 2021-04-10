@@ -1,0 +1,48 @@
+
+*{
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.langbtn{
+    position: absolute;
+    top: -10px;
+    right: 0;
+    font-size: 11px;
+}
+.active{
+    color:red;
+}
+nav{
+    border-bottom: 2px solid red;
+}
+img{
+    height: 50vh;
+    width: 100%;
+
+}
+.contain{
+    position: relative;
+    text-align: center;
+  color: white;
+  }
+  /* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  .txt{
+      color: white;
+      background-color: red;
+      padding: 2px;
+}
+h4{
+    color: red;
+}
+h2{
+    color: red;
+}
